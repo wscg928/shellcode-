@@ -1,4 +1,4 @@
-`pyinstaller.exe -F -i .\ff.ico .\hhshell.py`
+`pyinstaller.exe -F -i .\ff.ico .\hhshell.pyw`
 
 python免弹窗运行（dos窗口）
 
